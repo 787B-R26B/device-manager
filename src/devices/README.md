@@ -17,11 +17,11 @@ To start the API, type the following command
 $ npm run start
 ```
 
-### request
-POST (x-www-form-urlencoded) localhost:3000/devices :registar device info.
-GET localhost:3000/devices :fetch devices info.
-GET localhost:3000/devices/[id] :fetch device information specified by id.
-PATCH localhost:3000/devices/[id] :Update status of device specified by id
+### request  
+POST (x-www-form-urlencoded) localhost:3000/devices :registar device info.  
+GET localhost:3000/devices :fetch devices info.  
+GET localhost:3000/devices/[id] :fetch device information specified by id.  
+PATCH localhost:3000/devices/[id] :Update status of device specified by id.  
 DELETE localhost:3000/devices/[id] :Delete device specified by id.
 
 
